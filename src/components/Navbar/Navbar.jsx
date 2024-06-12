@@ -54,7 +54,7 @@ const Navbar = () => {
           <button className="join-btn">Contact</button>
         </Link>
         <img
-          src="/hazelfrontend/images/logo2."
+          src="/hazelfrontend/images/logo2.jpeg"
           alt="HAZEL Logo"
           className="logo"
         />

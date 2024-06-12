@@ -5,7 +5,7 @@ const Sponsors = () => {
   // Define an array of sponsor logos
   const sponsorLogos = [
     "logo1.png",
-    "logo2.jpeg",
+    "logo22.jpeg",
     "logo3.jpeg",
     "logo4.jpeg",
     "logo5.jpeg",
@@ -31,7 +31,7 @@ const Sponsors = () => {
         {sponsorLogos.map((logo, index) => (
           <img
             key={index}
-            src={`/static/images/${logo}`}
+            src={`/hazelfrontend/images/${logo}`}
             alt={`Sponsor ${index + 1}`}
             className={index === currentSlide ? "active" : ""}
           />

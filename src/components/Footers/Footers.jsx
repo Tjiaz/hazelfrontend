@@ -18,7 +18,7 @@ const Footers = () => {
         <div className="footer-section branded">
           <h3>Hazel Charity</h3>
           <img
-            src="/static/images/logo2.jpeg"
+            src="/hazelfrontend/images/logo2.jpeg"
             alt="HAZEL Logo"
             height={50}
             width={50}
@@ -63,7 +63,7 @@ const Footers = () => {
               <FaYoutubeSquare />
             </i>
           </div>
-         
+
           <Link to="/donate" className="donate-button">
             Donate
           </Link>

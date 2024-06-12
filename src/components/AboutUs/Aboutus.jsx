@@ -92,22 +92,22 @@ const Aboutus = () => {
             </p>
             <div className="image-cards">
               <div className="card">
-                <img src="/static/images/aboutimg1.jpeg" alt="Our Values" />
+                <img src="/hazelfrontend/images/aboutimg1.jpeg" alt="Our Values" />
                 <div className="card-title">Our Values</div>
               </div>
               <div className="card">
-                <img src="/static/images/aboutimg2.jpeg" alt="Accessibility" />
+                <img src="/hazelfrontend/images/aboutimg2.jpeg" alt="Accessibility" />
                 <div className="card-title">Accessibility</div>
               </div>
               <div className="card">
                 <img
-                  src="/static/images/aboutimg3.jpeg"
+                  src="/hazelfrontend/images/aboutimg3.jpeg"
                   alt="Child Ambassador"
                 />
                 <div className="card-title">Child Ambassador</div>
               </div>
               <div className="card">
-                <img src="/static/images/aboutimg4.jpeg" alt="Legal Advisors" />
+                <img src="/hazelfrontend/images/aboutimg4.jpeg" alt="Legal Advisors" />
                 <div className="card-title">Legal Advisors</div>
               </div>
             </div>

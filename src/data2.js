@@ -3,7 +3,7 @@ export const campaignData = [
   {
     id: 1,
     title: "Girls' Education in Northern Nigeria",
-    imgSrc: "/static/images/campaignpix1.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix1.jpeg",
     detail: `<p>
             In Northern Nigeria, the education of girls faces numerous challenges. Despite various efforts by the government and non-governmental organizations, many girls are still out of school. The cultural and economic barriers are significant, but so are the potential benefits of improving girls' education in this region.
           </p>
@@ -27,7 +27,7 @@ export const campaignData = [
   {
     id: 2,
     title: "Vocational Training for Women in Lagos",
-    imgSrc: "/static/images/campaignpix2.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix2.jpeg",
     detail: `<p>
             In Lagos, providing vocational training for women is essential for economic development and personal empowerment. Vocational training programs offer women the skills needed to secure employment or start their own businesses, fostering financial independence and boosting the local economy.
           </p>
@@ -51,7 +51,7 @@ export const campaignData = [
   {
     id: 3,
     title: "Medical Outreach in Rural Nigeria",
-    imgSrc: "/static/images/campaignpix3.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix3.jpeg",
     detail: `<p>
             Medical outreach programs in rural Nigeria are crucial for improving healthcare access in underserved areas. These programs bring essential medical services to remote communities, addressing the healthcare disparities between urban and rural populations.
           </p>
@@ -75,7 +75,7 @@ export const campaignData = [
   {
     id: 4,
     title: "Empowering Women in Kenya",
-    imgSrc: "/static/images/campaignpix4.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix4.jpeg",
     detail: `<p>
             Empowering women in Kenya involves addressing social, economic, and cultural barriers to gender equality. Initiatives aimed at women's empowerment focus on education, economic opportunities, and legal rights, helping women achieve their full potential.
           </p>
@@ -99,7 +99,7 @@ export const campaignData = [
   {
     id: 5,
     title: "Child Education in Uganda",
-    imgSrc: "/static/images/campaignpix5.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix5.jpeg",
     detail: `<p>
             Improving child education in Uganda is crucial for the nation's development. This campaign focuses on providing access to quality education, building educational infrastructure, and supporting teachers. Education is the key to breaking the cycle of poverty and creating a brighter future for Uganda’s children.
           </p>`,
@@ -108,7 +108,7 @@ export const campaignData = [
   {
     id: 6,
     title: "Healthcare for Mothers in Nigeria",
-    imgSrc: "/static/images/campaignpix6.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix6.jpeg",
     detail: `<p>
             Providing healthcare for mothers in Nigeria is vital for reducing maternal mortality and improving child health. This campaign includes prenatal care, safe delivery practices, and postpartum support. Healthy mothers are more likely to raise healthy children, creating a positive impact on families and communities.
           </p>`,
@@ -117,7 +117,7 @@ export const campaignData = [
   {
     id: 7,
     title: "Clean Water for Communities in Ethiopia",
-    imgSrc: "/static/images/campaignpix7.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix7.jpeg",
     detail: `<p>
             Access to clean water is essential for the health and well-being of communities. This campaign focuses on providing clean and safe drinking water in Ethiopia through the construction of wells and water systems. Clean water reduces the risk of waterborne diseases and improves the quality of life.
           </p>`,
@@ -126,7 +126,7 @@ export const campaignData = [
   {
     id: 8,
     title: "Youth Empowerment in South Africa",
-    imgSrc: "/static/images/campaignpix8.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix8.jpeg",
     detail: `<p>
             Empowering youth in South Africa through education, leadership training, and job skills development is crucial for the nation's future. This campaign aims to provide opportunities for young people to succeed and become leaders in their communities, fostering economic growth and social progress.
           </p>`,
@@ -135,7 +135,7 @@ export const campaignData = [
   {
     id: 9,
     title: "Supporting Orphans in Tanzania",
-    imgSrc: "/static/images/campaignpix9.jpeg",
+    imgSrc: "/hazelfrontend/images/campaignpix9.jpeg",
     detail: `<p>
             Supporting orphans in Tanzania involves providing safe homes, education, and emotional support. This campaign works with orphanages and child welfare organizations to ensure that orphans receive the care and opportunities they need to thrive.
           </p>`,
