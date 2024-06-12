@@ -136,9 +136,9 @@ function App() {
             <Link to="/eventts" className="nav-item">
               Events
             </Link>
-            <Link to="/contact" className="nav-item">
+            {/* <Link to="/contact" className="nav-item">
               Contact-us
-            </Link>
+            </Link> */}
             <Link to="/campaign" className="nav-item">
               Campaigns
             </Link>
@@ -160,7 +160,7 @@ function App() {
         <Route path="/Register" element={<Register />} />
         <Route path="/Campaign" element={<Campaign />} />
         <Route path="/Eventts" element={<Eventts />} />
-        <Route path="/Contact" element={<Contact />} />
+        {/* <Route path="/Contact" element={<Contact />} /> */}
         <Route path="/campaign/:id" element={<CampaignLearnMore />} />
         <Route path="/campaign/:id" element={<TeamCard />} />
       </Routes>

@@ -1,5 +1,5 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { campaignData } from "../../data2";
 import "./campaignlearnmore.scss";
 import Footers from "../Footers/Footers";
@@ -16,8 +16,8 @@ const CampaignLearnMore = () => {
       <div className="campaign-details">
         <header className="header">
           <div className="breadcrumbs">
-            <a href="/">All Posts</a> &nbsp; / &nbsp;{" "}
-            <a href="/">Train of Thought</a>
+            <Link to="/campaign">All Posts</Link> &nbsp; / &nbsp;{" "}
+            <Link to="/">Train of Thought</Link>
           </div>
           <div className="post-info">
             <p>Jun 16, 2023 &bull; 6 min read</p>

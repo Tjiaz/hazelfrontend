@@ -22,7 +22,7 @@ const Hero = () => {
   return (
     <div>
       <img
-        src={`/static/${images[Object.keys(images)[imageIndex]]}`}
+        src={`/hazelfrontend/${images[Object.keys(images)[imageIndex]]}`}
         alt="images"
         className="hero-image"
       />
