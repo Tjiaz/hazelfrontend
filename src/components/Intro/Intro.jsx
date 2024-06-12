@@ -51,7 +51,7 @@ const Intro = () => {
                 poster="poster.jpg"
                 className="responsive_video"
               >
-                <source src="/static/video.mp4" type="video/mp4" />
+                <source src="/hazelfrontend/video.mp4" type="video/mp4" />
                 <p>Your browser does not support the video tag.</p>
               </video>
             </div>
