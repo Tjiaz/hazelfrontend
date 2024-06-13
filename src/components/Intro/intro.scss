@@ -1,12 +1,22 @@
+$gradient-right: linear-gradient(
+  90deg,
+  #d3ebdbff,
+  #202020ff,
+  #fffdfeff,
+  #fbfeffff,
+  #019933ff
+);
+
 .title {
   text-align: center;
   margin: 2rem 0;
+  font-size: 14px !important;
 }
 
 .underline {
   width: 10rem;
   height: 0.2rem;
-  background-color: black;
+  background-color: #202020ff;
   margin: 0 auto;
 }
 
@@ -23,6 +33,10 @@
   text-align: justify;
   padding: 0 20px;
   flex: 1 1 50%;
+  p {
+    color: black !important;
+    font-size: medium !important;
+  }
 }
 
 .video-text-container {
@@ -42,6 +56,7 @@
   height: 250px;
   background-color: #ccc;
   position: relative;
+  border: 5px solid #202020ff !important;
 }
 
 .responsive_video {
@@ -59,6 +74,19 @@
 
 /* Extra Small Devices (Portrait Phones, less than 576px) */
 @media (max-width: 575.98px) {
+  .title {
+    text-align: center;
+    margin: 1.3rem 0;
+    font-size: 11px !important;
+  }
+
+  .underline {
+    width: 6rem;
+    height: 0.2rem;
+    background-color: #202020ff;
+    margin: 0 auto;
+  }
+
   .video-text-container {
     grid-template-columns: 1fr;
   }
@@ -70,7 +98,6 @@
   .text-container {
     text-align: justify;
     padding: 20px;
-    font-size: smaller;
   }
 
   .intro-section {
