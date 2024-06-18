@@ -16,10 +16,10 @@ const Footers = () => {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-section branded">
-          <h3>Hazel Charity</h3>
+          <h3>haziel Charity</h3>
           <img
             src="/hazelfrontend/images/logo2.jpeg"
-            alt="HAZEL Logo"
+            alt="haziel Logo"
             height={50}
             width={50}
           />
@@ -38,7 +38,7 @@ const Footers = () => {
           <h4>Keep in touch</h4>
           <ul>
             <li>Phone: +2348035963834</li>
-            <li>Email: hazelcharityfoundation@gmail.com</li>
+            <li>Email: hazielcharityfoundation@gmail.com</li>
             <li>No 15 Orizor Close Amike Abba, Abakaliki</li>
             <li>Ebonyi State Nigeria</li>
           </ul>
@@ -73,7 +73,7 @@ const Footers = () => {
       <div className="footer-bottom">
         <hr className="horizontal_line" />
         <p>
-          © {date} Hazel Charity. All rights reserved.
+          © {date} haziel Charity. All rights reserved.
           <Link style={style} to="https://www.azcodezone.com">
             {" "}
             Powered by Azcodezone

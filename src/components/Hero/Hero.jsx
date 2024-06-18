@@ -3,7 +3,7 @@ import "./hero.scss";
 
 const Hero = () => {
   const images = {
-    image_1: "4.jpeg",
+    image_1: "4.jpg",
     image_2: "5.jpeg",
     image_3: "6.jpeg",
   };

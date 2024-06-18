@@ -1,5 +1,5 @@
 import React from "react";
-import "./Campaign.scss";
+import "./campaign.scss";
 import Campaigncard from "./Campaigncard";
 import teamData from "../../data";
 import Footers from "../Footers/Footers";
